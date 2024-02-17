@@ -1,7 +1,7 @@
 # Instagram Clone Data Modelling & Analysis (SQL)
 
 ### Problem Statement:
-This project aims to replicate the core functionalities of popular social media platforms like Instagram using SQL. The objective is to design a relational database system enabling users to create accounts, share posts with images and captions, interact through likes and comments, and establish follower relationships. By developing and analyzing the database schema, populating it with sample data, and executing SQL queries, the project showcases proficiency in database management, query optimization, and result interpretation.
+This project aims to replicate the core functionalities of popular social media platform like Instagram using SQL. The objective is to design a relational database system enabling users to create accounts, share posts with images and captions, interact through likes and comments, and establish follower relationships. By developing and analyzing the database schema, populating it with sample data, and executing SQL queries, the project showcases proficiency in database management, query optimization, and result interpretation.
 
 ### Data Model:
 •	Users Table: Stores user information such as name, email, and phone number.
